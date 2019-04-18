@@ -4,7 +4,7 @@ https://github.com/vuejs/vue
 
 https://jp.vuejs.org/index.html
 
-```
+```html
 <script src="http://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script src="http://cdn.jsdelivr.net/npm/vue"></script>
 <div id="app">
